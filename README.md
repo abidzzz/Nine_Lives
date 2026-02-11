@@ -17,8 +17,7 @@
 
 ## **Gameplay Video**
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-pMaVvS4eUY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Nine Lives Gameplay Trailer](https://img.youtube.com/vi/-pMaVvS4eUY/0.jpg)](https://www.youtube.com/watch?v=-pMaVvS4eUY)
 ---
 
 ## **Description?**
